@@ -1,0 +1,36 @@
+*title Macabre Mansion
+*author Billy Towers
+*create
+*Scene_List
+*starting_bedroom 
+*first_hallway 
+*library 
+*storage_room 
+*second_hallway 
+*stairway
+*angel_statue_room
+*egyptian_statue_room
+*gallery_hallway
+*electric_gallery
+*Blueprint Gallery
+*Death Gallery
+*portrait gallery
+*dining _Hall
+*dining_Room
+*basement_landing
+*torture_chamber
+*boiler_room
+*record_room
+*soul_room
+*amphitheater
+*iron_maiden room
+*toy_room
+*child_bedroom
+*child_mausoleum 
+*bathroom
+*dining_Room
+*entertainment_hall
+*film_room  
+
+ *create insanity
+ *set insanity 0
